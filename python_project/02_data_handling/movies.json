@@ -1,0 +1,12 @@
+[
+  {
+    "title": "superman",
+    "genre": "superhero",
+    "rating": 9.0
+  },
+  {
+    "title": "the batman",
+    "genre": "superhero",
+    "rating": 9.2
+  }
+]

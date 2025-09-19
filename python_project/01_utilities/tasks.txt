@@ -1,0 +1,3 @@
+Take challenges in python     || not_done
+file handling in || handling in python     || not_done
+I started to talk to her || done
